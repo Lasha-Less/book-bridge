@@ -1,0 +1,4 @@
+com\bookbridge\routes\GoogleBooksRoute.class
+com\bookbridge\routes\BookBridgeRoute.class
+com\bookbridge\routes\RestApiRoute.class
+com\bookbridge\MainApp.class

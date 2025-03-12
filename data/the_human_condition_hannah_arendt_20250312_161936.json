@@ -1,0 +1,300 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "volumeInfo": {
+        "title": "The Human Condition",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2019-01-11",
+        "description": "The renowned political thinker and author of The Origins of Totalitarianism examines the troubling consequences of humanity’s increasing power. A work of striking originality, The Human Condition is in many respects more relevant today than when it first appeared in 1958. In her study of the state of modern humanity, Hannah Arendt considers humankind in terms of its ever-expanding capabilities. Her analysis reveals a troubling paradox: that as human powers increase through technological and humanistic inquiry, we are less equipped to control the consequences of our actions. This new edition contains Margaret Canovan’s 1998 introduction and a new foreword by Danielle Allen. A classic in political and social theory, The Human Condition offers a penetrating analysis of a conundrum that has only become more acute in the 21st century.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bGlwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bGlwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=bGlwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bGlwDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Human_Condition-sample-epub.acsm?id=bGlwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Human_Condition-sample-pdf.acsm?id=bGlwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Human Condition",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "1998-12-01",
+        "description": "A work of striking originality bursting with unexpected insights, The Human Condition is in many respects more relevant now than when it first appeared in 1958. In her study of the state of modern humanity, Hannah Arendt considers humankind from the perspective of the actions of which it is capable. The problems Arendt identified then—diminishing human agency and political freedom, the paradox that as human powers increase through technological and humanistic inquiry, we are less equipped to control the consequences of our actions—continue to confront us today. This new edition, published to coincide with the fortieth anniversary of its original publication, contains an improved and expanded index and a new introduction by noted Arendt scholar Margaret Canovan which incisively analyzes the book's argument and examines its present relevance. A classic in political and social theory, The Human Condition is a work that has proved both timeless and perpetually timely. Hannah Arendt (1906-1975) was one of the leading social theorists in the United States. Her Lectures on Kant's Political Philosophy and Love and Saint Augustine are also published by the University of Chicago Press.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f56gswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f56gswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=f56gswEACAAJ&dq=intitle:the+human+condition+inauthor:hannah+arendt&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Human_Condition.html?hl=&id=f56gswEACAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Human Condition",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2019-01-11",
+        "description": "The renowned political thinker and author of The Origins of Totalitarianism examines the troubling consequences of humanity’s increasing power. A work of striking originality, The Human Condition is in many respects more relevant today than when it first appeared in 1958. In her study of the state of modern humanity, Hannah Arendt considers humankind in terms of its ever-expanding capabilities. Her analysis reveals a troubling paradox: that as human powers increase through technological and humanistic inquiry, we are less equipped to control the consequences of our actions. This new edition contains Margaret Canovan’s 1998 introduction and a new foreword by Danielle Allen. A classic in political and social theory, The Human Condition offers a penetrating analysis of a conundrum that has only become more acute in the 21st century.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bGlwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bGlwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=bGlwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bGlwDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Human_Condition-sample-epub.acsm?id=bGlwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Human_Condition-sample-pdf.acsm?id=bGlwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "What Remains",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2023-04-04",
+        "description": "A landmark literary event, What Remains collects Arendt’s complete poetic oeuvre—never before published in English—into a single edition. The German-Jewish political philosopher Hannah Arendt (1906–1975) is world-renowned for her work on totalitarianism, the human condition, and the banality of evil. Not many people know that she also wrote poems—yet the language of poetry, especially that of Goethe and Schiller, was a banister for Arendt’s thinking throughout much of her adult life. Between 1923 and 1961, Arendt wrote seventy-four poems, many of them acting as signposts in her biography, marking moments of great joy, love, loss, melancholia, and remembrance. Now, for the first time in English, Samantha Rose Hill and Genese Grill present these intensely personal poems in chronological order, taking us from the zenith of the Weimar Republic to the Cold War, and from Marburg, Germany, to New York, New York. A gift to all readers of Arendt, this stunning en face edition provides an unparalleled view into the private life of one of the most definitive thinkers of the twentieth century.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e2yPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e2yPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=e2yPEAAAQBAJ&dq=intitle:the+human+condition+inauthor:hannah+arendt&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Remains.html?hl=&id=e2yPEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "What Remains: The Collected Poems of Hannah Arendt",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "Liveright Publishing",
+        "publishedDate": "2024-12-10",
+        "description": "A landmark literary event, What Remains collects Arendt’s complete poetic oeuvre—never before published in English. Internationally renowned as one of the twentieth century’s foremost public intellectuals, Hannah Arendt was also intensely private. Though she often acknowledged that the language of poetry—especially that of Dickinson, Goethe, and Lowell—informed her work, only a few people knew that Arendt herself wrote poems. In fact, between 1923 and 1961, Arendt wrote seventy-four poems, many of them signposts in an otherwise unwritten autobiography. For nearly forty years after her death, these poems remained hidden among the archives of the Library of Congress, until 2011, when they were rediscovered by scholar and translator Samantha Rose Hill. Now, for the first time in English, Hill and Genese Grill present Arendt’s poems in chronological order, taking us from the zenith of the Weimar Republic to the Cold War, and from Marburg, Germany, to New York’s Upper West Side. Throughout, Arendt uses poetry to mark moments of joy, love, loss, and reflection. In “W. B.,” written in 1942, she remembers Walter Benjamin, who died near the French-Spanish border while attempting to flee the Nazis: “Gentle whispering melodies / Sound from the darkness. / We listen so we can let go.” So, too, she reflects on mutability and transience in 1946: “I know that the houses have fallen. / We entered the world in them, wonderfully sure, that they / were more durable than ourselves.” She tries to understand her place in the world: “Ironically foolish, / I’ve forgotten nothing, / I know the emptiness, / I know the burden, / I dance, I dance / In ironic splendor.” A gift to all readers of Arendt, this stunning, dual-language edition provides an unparalleled view into the inner sanctum of one of our most original thinkers.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zX5wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zX5wEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=zX5wEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zX5wEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/What_Remains_The_Collected_Poems_of_Hann-sample-epub.acsm?id=zX5wEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/What_Remains_The_Collected_Poems_of_Hann-sample-pdf.acsm?id=zX5wEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Human Condition",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publishedDate": "1959",
+        "categories": [
+          "Economics"
+        ],
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=VwetMwEACAAJ&dq=intitle:the+human+condition+inauthor:hannah+arendt&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Human_Condition.html?hl=&id=VwetMwEACAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Jewish Writings",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "Schocken",
+        "publishedDate": "2009-03-12",
+        "description": "Although Hannah Arendt is not primarily known as a Jewish thinker, she probably wrote more about Jewish issues than any other topic. When she was in her mid-twenties and still living in Germany, Arendt wrote about the history of German Jews as a people living in a land that was not their own. In 1933, at the age of twenty-six, she fled to France, where she helped to arrange for German and eastern European Jewish youth to quit Europe and become pioneers in Palestine. During her years in Paris, Arendt’s principal concern was with the transformation of antisemitism from a social prejudice to a political policy, which would culminate in the Nazi “final solution” to the Jewish question–the physical destruction of European Jewry. After France fell at the beginning of World War II, Arendt escaped from an internment camp in Gurs and made her way to the United States. Almost immediately upon her arrival in New York she wrote one article after another calling for a Jewish army to fight the Nazis, and for a new approach to Jewish political thinking. After the war, her attention was focused on the creation of a Jewish homeland in a binational (Arab-Jewish) state of Israel. Although Arendt’s thoughts eventually turned more to the meaning of human freedom and its inseparability from political life, her original conception of political freedom cannot be fully grasped apart from her experience as a Jew. In 1961 she attended Adolf Eichmann’s trial in Jerusalem. Her report on that trial, Eichmann in Jerusalem, provoked an immense controversy, which culminated in her virtual excommunication from the worldwide Jewish community. Today that controversy is the subject of serious re-evaluation, especially among younger people in America, Europe, and Israel. The publication of The Jewish Writings–much of which has never appeared before–traces Arendt’s life and thought as a Jew. It will put an end to any doubts about the centrality, from beginning to end, of Arendt’s Jewish experience.",
+        "categories": [
+          "Religion"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RIE2KKIXhLQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RIE2KKIXhLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=RIE2KKIXhLQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RIE2KKIXhLQC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Jewish_Writings-sample-epub.acsm?id=RIE2KKIXhLQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Jewish_Writings-sample-pdf.acsm?id=RIE2KKIXhLQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Portable Hannah Arendt",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2003-07-29",
+        "description": "A collection of writings by a groundbreaking political thinker, including excerpts from The Origins of Totalitarianism and Eichmann in Jerusalem She was a Jew born in Germany in the early twentieth century, and she studied with the greatest German minds of her day—Martin Heidegger and Karl Jaspers among them. After the rise of the Nazis, she emigrated to America where she proceeded to write some of the most searching, hard-hitting reflections on the agonizing issues of the time: totalitarianism in both Nazi and Stalinist garb; Zionism and the legacy of the Holocaust; federally mandated school desegregation and civil rights in the United States; and the nature of evil. The Portable Hannah Arendt offers substantial excerpts from the three works that ensured her international and enduring stature: The Origins of Totalitarianism, The Human Condition, and Eichmann in Jerusalem. Additionally, this volume includes several other provocative essays, as well as her correspondence with other influential figures.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zm_f-8NCE9UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zm_f-8NCE9UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=Zm_f-8NCE9UC&dq=intitle:the+human+condition+inauthor:hannah+arendt&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Portable_Hannah_Arendt.html?hl=&id=Zm_f-8NCE9UC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Promise of Politics",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "Schocken",
+        "publishedDate": "2009-01-16",
+        "description": "After the publication of The Origins of Totalitarianism in 1951, Hannah Arendt undertook an investigation of Marxism, a subject that she had deliberately left out of her earlier work. Her inquiry into Marx’s philosophy led her to a critical examination of the entire tradition of Western political thought, from its origins in Plato and Aristotle to its culmination and conclusion in Marx. The Promise of Politics tells how Arendt came to understand the failure of that tradition to account for human action. From the time that Socrates was condemned to death by his fellow citizens, Arendt finds that philosophers have followed Plato in constructing political theories at the expense of political experiences, including the pre-philosophic Greek experience of beginning, the Roman experience of founding, and the Christian experience of forgiving. It is a fascinating, subtle, and original story, which bridges Arendt’s work from The Origins of Totalitarianism to The Human Condition, published in 1958. These writings, which deal with the conflict between philosophy and politics, have never before been gathered and published. The final and longer section of The Promise of Politics, titled “Introduction into Politics,” was written in German and is published here for the first time in English. This remarkable meditation on the modern prejudice against politics asks whether politics has any meaning at all anymore. Although written in the latter half of the 1950s, what Arendt says about the relation of politics to human freedom could hardly have greater relevance for our own time. When politics is considered as a means to an end that lies outside of itself, when force is used to “create” freedom, political principles vanish from the face of the earth. For Arendt, politics has no “end”; instead, it has at times been–and perhaps can be again–the never-ending endeavor of the great plurality of human beings to live together and share the earth in mutually guaranteed freedom. That is the promise of politics.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=76Xh8rpdUAQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=76Xh8rpdUAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=76Xh8rpdUAQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=76Xh8rpdUAQC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Promise_of_Politics-sample-epub.acsm?id=76Xh8rpdUAQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Origins of Totalitarianism",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2017-04-20",
+        "description": "'How could such a book speak so powerfully to our present moment? The short answer is that we, too, live in dark times' Washington Post Hannah Arendt's chilling analysis of the conditions that led to the Nazi and Soviet totalitarian regimes is a warning from history about the fragility of freedom, exploring how propaganda, scapegoats, terror and political isolation all aided the slide towards total domination. 'A non-fiction bookend to Nineteen Eighty-Four' The New York Times 'The political theorist who wrote about the Nazis and the 'banality of evil' has become a surprise bestseller' Guardian",
+        "categories": [
+          "Political Science"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zGE8DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zGE8DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=zGE8DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zGE8DgAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Origins_of_Totalitarianism-sample-epub.acsm?id=zGE8DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    }
+  ]
+}

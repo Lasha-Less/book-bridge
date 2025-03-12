@@ -1,0 +1,66 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "volumeInfo": {
+        "title": "After Finitude",
+        "authors": [
+          "Quentin Meillassoux"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2008-06-07",
+        "description": "After Finitude provides readings of the history of philosophy and sets out a critique of the unavowed fideism at the heart of post-Kantian philosophy. Author Quentin Meillassoux introduces a philosophical alternative to the forced choice between dogmatism and critique. After Finitude proposes a new alliance between philosophy and science and calls for an unequivocal halt to the creeping return of religiosity in contemporary philosophical discourse.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lJjUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lJjUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=lJjUAwAAQBAJ&dq=intitle:after+finitude+inauthor:quentin+%3Cmeillassoux&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/After_Finitude.html?hl=&id=lJjUAwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/After_Finitude-sample-pdf.acsm?id=lJjUAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "After Finitude",
+        "authors": [
+          "Quentin Meillassoux"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2008-06-07",
+        "description": "After Finitude provides readings of the history of philosophy and sets out a critique of the unavowed fideism at the heart of post-Kantian philosophy. Author Quentin Meillassoux introduces a philosophical alternative to the forced choice between dogmatism and critique. After Finitude proposes a new alliance between philosophy and science and calls for an unequivocal halt to the creeping return of religiosity in contemporary philosophical discourse.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lJjUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lJjUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=lJjUAwAAQBAJ&dq=intitle:after+finitude+inauthor:quentin+%3Cmeillassoux&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/After_Finitude.html?hl=&id=lJjUAwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/After_Finitude-sample-pdf.acsm?id=lJjUAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    }
+  ]
+}

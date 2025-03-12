@@ -1,0 +1,300 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "volumeInfo": {
+        "title": "Difference and Repetition",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2014-10-23",
+        "description": "Since its publication in 1968, Difference and Repetition, an exposition of the critique of identity, has come to be considered a contemporary classic in philosophy and one of Gilles Deleuze's most important works. The text follows the development of two central concepts, those of pure difference and complex repetition. It shows how the two concepts are related, difference implying divergence and decentring, repetition being associated with displacement and disguising. The work moves deftly between Hegel, Kierkegaard, Freud, Althusser and Nietzsche to establish a fundamental critique of Western metaphysics, and has been a central text in initiating the shift in French thought - away from Hegel and Marx, towards Nietzsche and Freud.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PrsfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PrsfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=PrsfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PrsfEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Difference_and_Repetition-sample-epub.acsm?id=PrsfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Difference_and_Repetition-sample-pdf.acsm?id=PrsfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Difference and Repetition",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2014-10-23",
+        "description": "Since its publication in 1968, Difference and Repetition, an exposition of the critique of identity, has come to be considered a contemporary classic in philosophy and one of Gilles Deleuze's most important works. The text follows the development of two central concepts, those of pure difference and complex repetition. It shows how the two concepts are related, difference implying divergence and decentring, repetition being associated with displacement and disguising. The work moves deftly between Hegel, Kierkegaard, Freud, Althusser and Nietzsche to establish a fundamental critique of Western metaphysics, and has been a central text in initiating the shift in French thought - away from Hegel and Marx, towards Nietzsche and Freud.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PrsfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PrsfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=PrsfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PrsfEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Difference_and_Repetition-sample-epub.acsm?id=PrsfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Difference_and_Repetition-sample-pdf.acsm?id=PrsfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Différence et répétition",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publisher": "PUF",
+        "publishedDate": "2015-04-20T00:00:00+02:00",
+        "description": "Un concept de différence implique une différence qui n'est pas seulement entre deux choses, et qui n'est pas non plus une simple différence conceptuelle. Faut-il aller jusqu'à une différence infinie (théologie) ou se tourner vers une raison du sensible (physique) ? À quelles conditions constituer un pur concept de la différence ?Un concept de la répétition implique une répétition qui n'est pas seulement celle d'une même chose ou d'un même élément. Les choses ou les éléments supposent une répétition plus profonde, rythmique. L'art n'est-il pas à la recherche de cette répétition paradoxale, mais aussi la pensée (Kierkegaard, Nietzsche, Péguy) ?Quelle chance y a-t-il pour que les deux concepts, de différence pure et de répétition profonde, se rejoignent et s'identifient ?",
+        "categories": [
+          "Social Science"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rtusDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rtusDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "infoLink": "https://play.google.com/store/books/details?id=rtusDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rtusDAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Diff%C3%A9rence_et_r%C3%A9p%C3%A9tition-sample-epub.acsm?id=rtusDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Diff%C3%A9rence_et_r%C3%A9p%C3%A9tition-sample-pdf.acsm?id=rtusDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Différence et répétition",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publisher": "Presses Universitaires de France - PUF",
+        "publishedDate": "1968",
+        "description": "Cet essai examine le concept de différence, entre la différence infinie impliquée par la théologie et la différence sensible induite par la physique, et le concept de répétition, rythmique et paradoxale. [Electre]",
+        "categories": [
+          "Difference (Philosophy)"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RHXdAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RHXdAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "infoLink": "http://books.google.nl/books?id=RHXdAAAAIAAJ&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diff%C3%A9rence_et_r%C3%A9p%C3%A9tition.html?hl=&id=RHXdAAAAIAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Dark Precursor",
+        "authors": [
+          "Paulo de Assis",
+          "Paolo Giudic"
+        ],
+        "publisher": "Leuven University Press",
+        "publishedDate": "2017-11-14",
+        "description": "Deleuze’s and Guattari’s philosophy in the field of artistic research Gilles Deleuze’s intriguing concept of the dark precursor refers to intensive processes of energetic flows passing between fields of different potentials. Fleetingly used in Difference and Repetition, it remained underexplored in Deleuze’s subsequent work. In this collection of essays numerous contributors offer perspectives on Deleuze’s concept of the dark precursor as it affects artistic research, providing a wide-ranging panorama on the intersection between music, art, philosophy, and scholarship. The forty-eight chapters in this publication present a kaleidoscopic view of different fields of knowledge and artistic practices, exposing for the first time the diversity and richness of a world situated between artistic research and the philosophy of Gilles Deleuze and Félix Guattari. Within different understandings of artistic research, the authors—composers, architects, performers, philosophers, sculptors, film-makers, painters, writers, and activists—map practices and invent concepts, contributing to a creative expansion of horizons, materials, and methodologies. Contributors VOLUME 1: Paulo de Assis, Arno Böhler, Edward Campbell, Diego Castro-Magas, Pascale Criton, Zornitsa Dimitrova, Lois Fitch, Mike Fletcher, Paolo Galli, Lindsay Gianoukas, Keir GoGwilt, Oleg Lebedev, Jimmie LeBlanc, Nicolas Marty, Frédéric Mathevet, Vincent Meelberg, Catarina Pombo Nabais, Tero Nauha, Gabriel Paiuk, Martin Scherzinger, Einar Torfi Einarsson, Steve Tromans, Toshiya Ueno, Susanne Valerie, Audronė Žukauskaitė VOLUME 2: Éric Alliez, Manola Antonioli, Jūratė Baranova, Zsuzsa Baross, Anna Barseghian, Ian Buchanan, Elena del Río, Luis de Miranda, Lucia D’Errico, Lilija Duoblienė, Adreis Echzehn, Jae Emerling, Verina Gfader, Ronny Hardliz, Rahma Khazam, Stefan Kristensen, Erin Manning, John Miers, Elfie Miklautz, Marc Ngui, Andreia Oliveira, Federica Pallaver, Andrej Radman, Felix Rebolledo, Anne Sauvagnargues, Janae Sholtz, Mhairi Vari, Mick Wilson, Elisabet Yanagisawa",
+        "categories": [
+          "Music"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vqk-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vqk-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=vqk-DwAAQBAJ&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Precursor.html?hl=&id=vqk-DwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Dark_Precursor-sample-pdf.acsm?id=vqk-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Letters and Other Texts",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2020-06-23",
+        "description": "A posthumous collection of writings by Deleuze, including letters, youthful essays, and an interview, many previously unpublished. Letters and Other Texts is the third and final volume of the posthumous texts of Gilles Deleuze, collected for publication in French on the twentieth anniversary of his death. It contains several letters addressed to his contemporaries (Michel Foucault, Pierre Klossowski, François Châtelet, and Clément Rosset, among others). Of particular importance are the letters addressed to Félix Guattari, which offer an irreplaceable account of their work as a duo from Anti-Oedipus to What is Philosophy? Later letters provide a new perspective on Deleuze's work as he responds to students' questions. his volume also offers a set of unpublished or hard-to-find texts, including some essays from Deleuze's youth, a few unusual drawings, and a long interview from 1973 on Anti-Oedipus with Guattari.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xDYfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xDYfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=xDYfEAAAQBAJ&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Letters_and_Other_Texts.html?hl=&id=xDYfEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Letters_and_Other_Texts-sample-pdf.acsm?id=xDYfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Difference et repetition",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publishedDate": "1996",
+        "language": "fr",
+        "infoLink": "http://books.google.nl/books?id=MPb8ngEACAAJ&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Difference_et_repetition.html?hl=&id=MPb8ngEACAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Introduction to the Philosophy of Gilles Deleuze",
+        "authors": [
+          "Jean Khalfa"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2003-05-28",
+        "description": "Gilles Deleuze has been labelled as the \"post-x\" thinker: post-structuralist, post-modern, post-Spinozist, post-Nietzschean, and even post-utopian. An Introduction to the Philosophy of Gilles Deleuze explores such categorizations and places Deleuze and Deleuzian method at the heart of contemporary thought.Contributors include: Giorgio Agamben, Mary Bryden, Gilles Deleuze, Jean Khalfa, Claude Imbert, Alain MTnil, Bento Prado, Juliette Simont, Ronald Bogue, Jonathan Philippe.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C_Gxz3JevToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C_Gxz3JevToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=C_Gxz3JevToC&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_the_Philosophy_of_Gilles.html?hl=&id=C_Gxz3JevToC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Introduction_to_the_Philosophy_of_Gilles-sample-epub.acsm?id=C_Gxz3JevToC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Introduction_to_the_Philosophy_of_Gilles-sample-pdf.acsm?id=C_Gxz3JevToC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Logic of Sense",
+        "authors": [
+          "Gilles Deleuze"
+        ],
+        "publishedDate": "1990",
+        "description": "Considered one of the most important works of one of France's foremost philosophers, and long-awaited in English, The Logic of Sense begins with an extended exegesis of Lewis Carroll's Alice in Wonderland. Considering stoicism, language, games, sexuality, schizophrenia, and literature, Deleuze determines the status of meaning and meaninglessness, and seeks the 'place' where sense and nonsense collide. Written in an innovative form and witty style, The Logic of Sense is an essay in literary and psychoanalytic theory as well as philosophy, and helps to illuminate such works as Anti-Oedipus.",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zi7qwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zi7qwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=zi7qwAEACAAJ&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Logic_of_Sense.html?hl=&id=zi7qwAEACAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Dialogues II",
+        "authors": [
+          "Gilles Deleuze",
+          "Claire Parnet"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2006-05-16",
+        "description": "Gilles Deleuze (1925-1995), a key figure in post-structuralism, was Professor of Philosophy at the University of Paris VIII. In this book, Deleuze examines his philosophical pluralism in a series of discussions with Claire Parnet. He describes his own philosophical background, relationships, and some of the central themes of his work.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hv4OTGdr_AUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hv4OTGdr_AUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=hv4OTGdr_AUC&dq=intitle:difference+and+repetition+inauthor:gilles+deleuze&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dialogues_II.html?hl=&id=hv4OTGdr_AUC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Dialogues_II-sample-epub.acsm?id=hv4OTGdr_AUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Dialogues_II-sample-pdf.acsm?id=hv4OTGdr_AUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    }
+  ]
+}
